@@ -1,0 +1,14 @@
+body{
+    margin: 15px;
+}
+table{
+    width: 80%;
+    margin: 0% 10%;
+    font-size: larger;
+    text-align: center;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 3px;
+}
