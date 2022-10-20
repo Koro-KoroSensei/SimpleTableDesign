@@ -1,11 +1,19 @@
 body{
     margin: 15px;
+    background:url('https://wallpaperaccess.com/full/1214402.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+    color: white;
 }
-table{
-    width: 80%;
+.table, .table-striped{
+    width: 80% ;
     margin: 0% 10%;
     font-size: larger;
     text-align: center;
+    background: transparent;
+    color: white;
 }
 table, th, td{
     border: 1px solid black;
