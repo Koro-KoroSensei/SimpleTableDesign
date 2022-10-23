@@ -1,6 +1,6 @@
 body{
     margin: 15px;
-    background:url('https://wallpaperaccess.com/full/1214402.jpg');
+    background:url('https://blog.dupontregistry.com/wp-content/uploads/2021/08/McLaren765LT-9-1140x570.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
@@ -16,7 +16,7 @@ body{
     color: white;
 }
 table, th, td{
-    border: 1px solid black;
+    border: 1px solid white;
     border-collapse: collapse;
     padding: 3px;
 }
