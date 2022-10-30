@@ -6,7 +6,7 @@ body{
     background-attachment: fixed;
     color: white;
 }
-header{
+header, footer{
     background: linear-gradient(to bottom right, black, rgb(255, 136, 0));
     padding: 10px;
 }
@@ -23,4 +23,7 @@ table, th, td{
     border-collapse: collapse;
     background-color: rgba(0, 0, 0, 0.598);
     padding: 3px;
+}
+#tablediv{
+    margin: 20px 0px;
 }
