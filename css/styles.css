@@ -1,11 +1,14 @@
 body{
-    margin: 15px;
     background:url('https://blog.dupontregistry.com/wp-content/uploads/2021/08/McLaren765LT-9-1140x570.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
     background-attachment: fixed;
     color: white;
+}
+header{
+    background: linear-gradient(to bottom right, black, rgb(255, 136, 0));
+    padding: 10px;
 }
 .table, .table-striped{
     width: 80% ;
